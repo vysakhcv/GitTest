@@ -14,6 +14,7 @@ class VYSAKH{
         $i=$i*5;
         $i=$i+10;
         $i=$i*10;
+        $xx=1;
         
         return $i;
     }
