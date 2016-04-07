@@ -11,6 +11,12 @@ class VYSAKH{
         
         $i=$i+2;
         $i=$i*2;
+
+        $i=$i+5;
+        $i=$i*5;
+        $i=$i+10;
+        $i=$i*10;
+        $xx=1;
         
         $k=0;
         return $i;
