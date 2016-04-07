@@ -62,7 +62,10 @@ and open the template in the editor.
 				<p> 
 					<label for="passwordsignup" class="youpasswd" data-icon="p">Your password </label>
 					<input id="passwordsignup" name="passwordsignup" required="required" type="password" placeholder="eg. X8df!90EO"/>
-				</p>
+				
+                                
+                                
+                                </p>
 				<p> 
 					<label for="passwordsignup_confirm" class="youpasswd" data-icon="p">Please confirm your password </label>
 					<input id="passwordsignup_confirm" name="passwordsignup_confirm" required="required" type="password" placeholder="eg. X8df!90EO"/>
