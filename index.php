@@ -51,7 +51,7 @@ and open the template in the editor.
 		<div id="register" class="animate form">
 			<form  action="mysuperscript.php" autocomplete="on"> 
 				<h1> Sign up </h1> 
-				<p> 
+				<p > 
 					<label for="usernamesignup" class="uname" data-icon="u">Your username</label>
 					<input id="usernamesignup" name="usernamesignup" required="required" type="text" placeholder="mysuperusername690" />
 				</p>
