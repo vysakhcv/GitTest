@@ -13,10 +13,6 @@ and open the template in the editor.
         <?php
                         echo 'Hello World';
                         echo 'Hello World33';
-                        l;maa,..axa/.,M./ZX
-                                ./M,./SX,
-                                ,L;M;.SX
-                                        
                         echo 'Hello World44';
                         echo 'Hello World55';
                         echo 'Hello World5000';
