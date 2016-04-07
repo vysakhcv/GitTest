@@ -12,7 +12,7 @@ class VYSAKH{
         $i=$i+2;
         $i=$i*2;
         
+        $k=0;
         return $i;
     }
 }
-
