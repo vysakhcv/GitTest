@@ -65,6 +65,7 @@ and open the template in the editor.
 					<label for="emailsignup" class="youmail" data-icon="e" > Your email</label>
 					<input id="emailsignup" name="emailsignup" required="required" type="email" placeholder="mysupermail@mail.com"/> 
 				</p>
+                                
 				<p> 
 					<label for="passwordsignup" class="youpasswd" data-icon="p">Your password </label>
 					<input id="passwordsignup" name="passwordsignup" required="required" type="password" placeholder="eg. X8df!90EO"/>
