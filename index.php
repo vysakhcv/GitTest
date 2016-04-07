@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>MILJO JOHN UPDATED</title>
     </head>
     <body>
    <div id="container_demo" >
