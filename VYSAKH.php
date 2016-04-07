@@ -11,6 +11,7 @@ class VYSAKH{
         
         $i=$i+2;
         $i=$i*2;
+        
         return $i;
     }
 }
