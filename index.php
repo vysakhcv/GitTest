@@ -33,6 +33,12 @@ and open the template in the editor.
 				<p class="login button"> 
 					<input type="submit" value="Login" /> 
 				</p>
+                                <p class="login button"> 
+					<input type="submit" value="Login" /> 
+				</p>
+                                <p class="login button"> 
+					<input type="submit" value="Login" /> 
+				</p>
 				<p class="change_link">
 					Not a member yet ?
 					<a href="#toregister" class="to_register">Join us</a>
@@ -52,6 +58,10 @@ and open the template in the editor.
 					<input id="emailsignup" name="emailsignup" required="required" type="email" placeholder="mysupermail@mail.com"/> 
 				</p>
 				<p> 
+					<label for="passwordsignup" class="youpasswd" data-icon="p">Your password </label>
+					<input id="passwordsignup" name="passwordsignup" required="required" type="password" placeholder="eg. X8df!90EO"/>
+				</p>
+                                <p> 
 					<label for="passwordsignup" class="youpasswd" data-icon="p">Your password </label>
 					<input id="passwordsignup" name="passwordsignup" required="required" type="password" placeholder="eg. X8df!90EO"/>
 				</p>
